@@ -36,6 +36,15 @@ Painel público atualizado automaticamente que mostra quanto o governo federal r
 
 ---
 
+### 📊 Sorocaba em Dados
+**Site:** [civisbr.github.io/sorocaba-em-dados](https://civisbr.github.io/sorocaba-em-dados/) · **Repositório:** [`civisBR/sorocaba-em-dados`](https://github.com/civisBR/sorocaba-em-dados)
+
+Hub de dados públicos de Sorocaba em um site estático e leve, com fonte e data de referência em cada número. Painéis no ar: emprego formal (Novo CAGED), preços de combustíveis nos postos pesquisados pela ANP e indicadores de cada escola (Censo Escolar e IDEB).
+
+`Python` · `GitHub Pages` · `CAGED/MTE` · `ANP` · `INEP`
+
+---
+
 ## Como funciona
 
 ```
