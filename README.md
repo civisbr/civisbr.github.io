@@ -39,11 +39,20 @@ Painel público atualizado automaticamente que mostra quanto o governo federal r
 ### 📊 Sorocaba em Dados
 **Site:** [civisbr.github.io/sorocaba-em-dados](https://civisbr.github.io/sorocaba-em-dados/) · **Repositório:** [`civisBR/sorocaba-em-dados`](https://github.com/civisBR/sorocaba-em-dados)
 
-Hub de dados públicos de Sorocaba em um site estático e leve, com fonte e data de referência em cada número. Painéis no ar: emprego formal (Novo CAGED), preços de combustíveis nos postos pesquisados pela ANP e indicadores de cada escola (Censo Escolar e IDEB).
+Hub de dados públicos de Sorocaba em um site estático e leve, com fonte e data de referência em cada número. Treze painéis no ar: perfil da cidade, comparativo, clima, emprego formal (Novo CAGED), combustíveis (ANP), dengue e chikungunya, hospitais e leitos, mortes e nascimentos, vacinas, escolas (Censo Escolar e IDEB), segurança, trânsito e representantes.
 
-`Python` · `GitHub Pages` · `CAGED/MTE` · `ANP` · `INEP`
+`Python` · `GitHub Pages` · `IBGE` · `CAGED/MTE` · `ANP` · `INEP` · `DATASUS` · `SSP-SP`
 
 ---
+### 📊 Porto Feliz em Dados
+**Site:** [civisbr.github.io/porto-feliz-em-dados](https://civisbr.github.io/porto-feliz-em-dados/) · **Repositório:** [`civisBR/porto-feliz-em-dados`](https://github.com/civisBR/porto-feliz-em-dados)
+
+O mesmo modelo do Sorocaba em Dados, aplicado a Porto Feliz: site estático e leve, com fonte e data de referência em cada número. Doze painéis no ar: perfil da cidade, comparativo, clima, emprego formal (Novo CAGED), dengue e chikungunya, hospitais e leitos, mortes e nascimentos, vacinas, escolas (Censo Escolar e IDEB), segurança, trânsito e representantes.
+
+`Python` · `GitHub Pages` · `IBGE` · `CAGED/MTE` · `INEP` · `DATASUS` · `SSP-SP`
+
+---
+
 
 ## Como funciona
 
