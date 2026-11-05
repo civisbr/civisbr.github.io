@@ -55,7 +55,7 @@ O mesmo modelo do Sorocaba em Dados, aplicado a Porto Feliz: site estático e le
 ### 🌳 Sombra
 **Site:** [civisbr.github.io/sombra](https://civisbr.github.io/sombra/) · **Repositório:** [`civisBR/sombra`](https://github.com/civisBR/sombra)
 
-Mapa de calor urbano × vulnerabilidade para priorizar arborização e proteção. Cruza o calor de superfície (Landsat 8/9) com o Censo 2022 por setor censitário e gera um índice de prioridade e listas de ação: onde arborizar, onde abrir pontos de resfriamento e onde fazer busca ativa de idosos. Aplicável a qualquer município, com Sorocaba como piloto. Em desenvolvimento: a prévia usa dados ilustrativos.
+Mapa de calor urbano × vulnerabilidade para priorizar arborização e proteção. Cruza o calor de superfície (Landsat 8/9) com o Censo 2022 por setor censitário e gera um índice de prioridade e listas de ação: onde arborizar, onde abrir pontos de resfriamento e onde fazer busca ativa de idosos. Aplicável a qualquer município, com Sorocaba como piloto. No ar para Sorocaba, com dados reais; novas cidades e a validação com estações INMET estão em andamento.
 
 `Python` · `MapLibre` · `Landsat` · `IBGE` · `Sentinel-2` · `INMET`
 
