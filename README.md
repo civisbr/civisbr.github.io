@@ -60,7 +60,14 @@ Mapa de calor urbano × vulnerabilidade para priorizar arborização e proteçã
 `Python` · `MapLibre` · `Landsat` · `IBGE` · `Sentinel-2` · `INMET`
 
 ---
+### 👁️ Visse?
+**Site:** [civisbr.github.io/visse](https://civisbr.github.io/visse/) · **Repositório:** [`civisbr/visse`](https://github.com/civisbr/visse)
 
+Ferramentas abertas para o cidadão do Nordeste fiscalizar o dinheiro público: quanto cada município gastou com saúde, educação e pessoal, contratos com sinais de alerta, obras paradas e um gerador de denúncia em PDF com os canais do Ministério Público de cada estado. Sem cadastro e sem coletar dados pessoais. Dados atualizados toda semana.
+
+`React` · `TypeScript` · `Cloudflare Workers` · `SICONFI` · `PNCP` · `ObrasGov` · `BrasilAPI`
+
+---
 
 ## Como funciona
 
