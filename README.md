@@ -69,6 +69,15 @@ Ferramentas abertas para o cidadão do Nordeste fiscalizar o dinheiro público: 
 
 ---
 
+### 🌬️ Fôlego
+**Site:** [civisbr.github.io/folego](https://civisbr.github.io/folego/) · **Repositório:** [`civisbr/folego`](https://github.com/civisbr/folego)
+
+Observatório aberto de fumaça de queimadas e saúde, voltado a antecipar internações respiratórias adicionais e valores pagos pelo SUS nos próximos 1 a 5 dias. Painel nacional por região de saúde e faixa etária, com mapa interativo, filtros e arquivos abertos. Em desenvolvimento: a demonstração usa dados sintéticos; as previsões reais dependem da integração histórica e da validação científica.
+
+`Python` · `MapLibre` · `DATASUS` · `Copernicus/CAMS` · `NASA FIRMS` · `IBGE`
+
+---
+
 ## Como funciona
 
 ```
