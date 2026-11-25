@@ -78,6 +78,15 @@ Observatório aberto de fumaça de queimadas e saúde, voltado a antecipar inter
 
 ---
 
+### PL dos Ventos
+**Site:** [civisbr.github.io/pl-dos-ventos](https://civisbr.github.io/pl-dos-ventos/) · **Repositório:** [`civisbr/pl-dos-ventos`](https://github.com/civisbr/pl-dos-ventos)
+
+Proposta cidadã para o reforço preventivo de coberturas vulneráveis a ventos fortes, com prioridade para moradias de famílias de baixa renda no Rio Grande do Sul, em Santa Catarina e no Paraná. Reúne minuta preliminar, comparador de dados do Atlas Digital de Desastres de 1991 a 2025 e acompanhamento das sugestões estaduais. A minuta depende de revisão jurídica externa e não constitui proposição legislativa oficial.
+
+`Prevenção de desastres` · `Habitação` · `Atlas/MIDR` · `RS · SC · PR`
+
+---
+
 ## Como funciona
 
 ```
